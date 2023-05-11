@@ -49,3 +49,5 @@ The recommended movie list is presented to the user, providing valuable suggesti
 ## Completion Certificate:
 A completion certificate for this project can be found [HERE.](https://www.coursera.org/account/accomplishments/certificate/ZA8D76X2VSE8)
 >This certificate validates the successful completion of the "Java Programming and Software Engineering Fundamentals" specialization.
+
+Feel free to explore the code, documentation, and demo of this Movie Recommendation Project repository. Enjoy discovering new movies that match your taste!
